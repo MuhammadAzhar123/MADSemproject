@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "407128931104",
+    "firebase_url": "https://carapp-73a50.firebaseio.com",
+    "project_id": "carapp-73a50",
+    "storage_bucket": "carapp-73a50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407128931104:android:dd81a16e64d2a132e43545",
+        "android_client_info": {
+          "package_name": "com.example.carapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407128931104-3aif873v2h3b4mga9a0s6m6m85il5n97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy68xMWO8fedJJwAg6RMyHoAlwPZRNTyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407128931104-3aif873v2h3b4mga9a0s6m6m85il5n97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

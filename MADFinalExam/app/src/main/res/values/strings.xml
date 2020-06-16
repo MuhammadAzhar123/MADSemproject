@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MADFinalExam</string>
+    <string name="splash_icon">Car App</string>
+    <string name="my_name">Muhammad Azhar</string>
+    <string name="reg_no">38034</string>
+    <string name="search_btn_text">Search Vehicle</string>
+    <string name="sell_btn_text">Sell Vehicle</string>
+</resources>
